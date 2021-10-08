@@ -3,7 +3,7 @@
     {
       "name": "Test2",
       "setup": "",
-      "run": "gradle test",
+      "run": "gradle test; cat file:///home/runner/work/testautograding-annguyen23/testautograding-annguyen23/build/reports/tests/test/index.html",
       "input": "",
       "output": "",
       "comparison": "included",
